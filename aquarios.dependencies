@@ -1,0 +1,6 @@
+[
+  {
+    "repository": "vendor/huawei",
+    "target_path": "proprietary_vendor_huawei"
+  }
+]
